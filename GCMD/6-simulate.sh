@@ -1,0 +1,2 @@
+python ./adsorption.py
+wait

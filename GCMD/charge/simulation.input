@@ -1,0 +1,21 @@
+SimulationType                MC
+NumberOfCycles                0
+NumberOfInitializationCycles  0
+PrintEvery                    100
+RestartFile                   no
+
+Forcefield                    STUMOF
+ChargeMethod                  Coulomb
+cutoff                        13.170
+
+ChargeFromChargeEquilibration    yes
+ChargeEquilibrationPeriodic      yes
+ChargeEquilibrationEwald         yes
+SymmetrizeFrameworkCharges       no
+
+Framework           0
+FrameworkName       MOF-199
+UnitCells           1 1 1
+ExternalTemperature 298.0
+ExternalPressure    0.0
+InputFileType       cif

@@ -1,0 +1,27 @@
+SimulationType                MonteCarlo
+NumberOfCycles                25000
+NumberOfInitializationCycles  10000
+PrintEvery                    1000
+RestartFile                   no
+
+Forcefield                    STUMOF
+UseChargesFromCIFFile         yes
+
+Framework 0
+FrameworkName Framework_0_final_1_1_1_P1
+UnitCells 1 1 1
+HeliumVoidFraction 0.738283
+ExternalTemperature 298
+ExternalPressure  1e1 1e2 1e3 1e4 1e5 5e5 1e6 5e6
+
+movies yes
+writemoviesevery 100
+
+Component 0 MoleculeName             CH2O
+            MoleculeDefinition       TraPPE
+            TranslationProbability   0.5
+            RotationProbability      0.5
+            ReinsertionProbability   0.5
+            SwapProbability          1.0
+            CreateNumberOfMolecules  0
+
