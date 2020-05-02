@@ -1,0 +1,181 @@
+@<TRIPOS>MOLECULE
+3AW0 - hbond-opt_ligand
+81   81    7
+PROTEIN
+USER_CHARGES
+
+
+@<TRIPOS>DICT
+PROTEIN PROTEIN
+@<TRIPOS>ATOM
+      1 C         -12.2119    5.5965   72.6888 C.2       1 ACE         0.4800 
+      2 O         -11.5951    5.5723   71.6246 O.2       1 ACE        -0.5200 
+      3 CH3       -11.9602    4.5281   73.7458 C.3       1 ACE        -0.1900 
+      4 N         -13.1207    6.5342   72.9935 N.am      2 SER2       -0.4600 BACKBONE|DICT|DIRECT
+      5 CA        -13.5313    7.6242   72.1098 C.3       2 SER2        0.0300 BACKBONE|DICT|DIRECT
+      6 C         -12.4226    8.6860   72.0215 C.2       2 SER2        0.5000 BACKBONE|DICT|DIRECT
+      7 O         -11.6815    8.8996   72.9833 O.2       2 SER2       -0.5400 BACKBONE|DICT|DIRECT
+      8 CB        -14.7890    8.2875   72.7065 C.3       2 SER2        0.1100 DICT
+      9 OG        -14.5129    8.7771   74.0036 O.3       2 SER2       -0.6700 DICT
+     10 N         -12.3302    9.3597   70.8645 N.am      3 ALA3       -0.4200 BACKBONE|DICT|DIRECT
+     11 CA        -11.3380   10.3904   70.5749 C.3       3 ALA3        0.0200 BACKBONE|DICT|DIRECT
+     12 C         -12.0341   11.6425   70.0206 C.2       3 ALA3        0.4900 BACKBONE|DICT|DIRECT
+     13 O         -12.7292   11.5781   69.0060 O.2       3 ALA3       -0.5300 BACKBONE|DICT|DIRECT
+     14 CB        -10.3711    9.8453   69.5104 C.3       3 ALA3       -0.1900 DICT
+     15 N         -11.8398   12.7791   70.7042 N.am      4 VAL4       -0.4200 BACKBONE|DICT|DIRECT
+     16 CA        -12.5019   14.0526   70.4281 C.3       4 VAL4        0.0300 BACKBONE|DICT|DIRECT
+     17 C         -11.6046   14.8655   69.4770 C.2       4 VAL4        0.4900 BACKBONE|DICT|DIRECT
+     18 O         -10.4087   14.5887   69.3573 O.2       4 VAL4       -0.5400 BACKBONE|DICT|DIRECT
+     19 CB        -12.6966   14.8194   71.7689 C.3       4 VAL4       -0.1000 DICT
+     20 CG1       -13.1282   16.2864   71.5638 C.3       4 VAL4       -0.1700 DICT
+     21 CG2       -13.7160   14.1184   72.6893 C.3       4 VAL4       -0.1700 DICT
+     22 N         -12.1940   15.8804   68.8242 N.am      5 LEU5       -0.4100 BACKBONE|DICT|DIRECT
+     23 CA        -11.5309   16.8175   67.9172 C.3       5 LEU5        0.0300 BACKBONE|DICT|DIRECT
+     24 C         -11.0274   16.0851   66.6613 C.2       5 LEU5        0.4900 BACKBONE|DICT|DIRECT
+     25 O         -10.4025   16.6914   65.7907 O.2       5 LEU5       -0.5000 BACKBONE|DICT|DIRECT
+     26 CB        -10.3597   17.4811   68.6801 C.3       5 LEU5       -0.1400 DICT
+     27 CG         -9.5470   18.5400   67.8967 C.3       5 LEU5       -0.0800 DICT
+     28 CD1       -10.4212   19.7017   67.3948 C.3       5 LEU5       -0.1700 DICT
+     29 CD2        -8.3923   19.0747   68.7572 C.3       5 LEU5       -0.1700 DICT
+     30 N         -11.2922   14.7729   66.5964 N.am      6 HSV6       -0.4800 
+     31 CA        -11.1084   13.9121   65.4305 C.3       6 HSV6       -0.0300 
+     32 CB        -10.1797   12.7292   65.7878 C.3       6 HSV6       -0.1500 
+     33 CG         -9.8600   11.7739   64.6588 C.ar      6 HSV6        0.0000 
+     34 ND1        -8.5602   11.5741   64.2162 N.pl3     6 HSV6       -0.0200 
+     35 CD2       -10.6715   10.9409   63.9084 C.ar      6 HSV6       -0.1200 
+     36 CE1        -8.6165   10.6906   63.2214 C.ar      6 HSV6       -0.0900 
+     37 NE2        -9.8615   10.2727   63.0050 N.pl3     6 HSV6       -0.0300 
+     38 C         -12.4763   13.4563   64.9251 C.2       6 HSV6        0.3900 
+     39 O         -12.6324   12.7778   63.9121 O.2       6 HSV6       -0.4300 
+     40 HH31      -11.6051    4.9831   74.6706 H         7 ACE1        0.0900 
+     41 HH32      -11.2075    3.8168   73.4042 H         7 ACE1        0.0900 
+     42 HH33      -12.8775    3.9783   73.9579 H         7 ACE1        0.0900 
+     43 H         -13.5735    6.4867   73.8937 H         2 SER2        0.3100 DICT
+     44 HA        -13.7514    7.2361   71.1127 H         2 SER2        0.0900 DICT
+     45 HB3       -15.1522    9.1004   72.0754 H         2 SER2        0.0600 DICT
+     46 HB2       -15.6013    7.5638   72.7942 H         2 SER2        0.0600 DICT
+     47 HG        -14.3415    8.0442   74.5757 H         2 SER2        0.4300 DICT
+     48 H         -12.9978    9.1484   70.1375 H         3 ALA3        0.3200 DICT
+     49 HA        -10.7795   10.6322   71.4816 H         3 ALA3        0.0700 DICT
+     50 HB1        -9.6136   10.5856   69.2496 H         3 ALA3        0.0800 DICT
+     51 HB2        -9.8479    8.9615   69.8769 H         3 ALA3        0.0800 DICT
+     52 HB3       -10.8895    9.5635   68.5925 H         3 ALA3        0.0800 DICT
+     53 H         -11.1924   12.7576   71.4775 H         4 VAL4        0.3000 DICT
+     54 HA        -13.4751   13.8709   69.9665 H         4 VAL4        0.0800 DICT
+     55 HB        -11.7443   14.8318   72.3014 H         4 VAL4        0.0800 DICT
+     56 HG11      -14.0616   16.3471   71.0031 H         4 VAL4        0.0600 DICT
+     57 HG12      -13.2861   16.7870   72.5194 H         4 VAL4        0.0600 DICT
+     58 HG13      -12.3802   16.8661   71.0235 H         4 VAL4        0.0600 DICT
+     59 HG21      -14.6891   14.0302   72.2048 H         4 VAL4        0.0600 DICT
+     60 HG22      -13.3958   13.1146   72.9698 H         4 VAL4        0.0600 DICT
+     61 HG23      -13.8585   14.6744   73.6163 H         4 VAL4        0.0600 DICT
+     62 H         -13.1844   16.0148   68.9662 H         5 LEU5        0.3100 DICT
+     63 HA        -12.2629   17.5761   67.6351 H         5 LEU5        0.0700 DICT
+     64 HB3       -10.7496   17.9467   69.5867 H         5 LEU5        0.0800 DICT
+     65 HB2        -9.6777   16.7009   69.0237 H         5 LEU5        0.0800 DICT
+     66 HG         -9.0918   18.0658   67.0268 H         5 LEU5        0.0900 DICT
+     67 HD11      -10.9360   20.1961   68.2194 H         5 LEU5        0.0600 DICT
+     68 HD12       -9.8174   20.4533   66.8852 H         5 LEU5        0.0600 DICT
+     69 HD13      -11.1745   19.3643   66.6836 H         5 LEU5        0.0600 DICT
+     70 HD21       -8.7623   19.5766   69.6520 H         5 LEU5        0.0600 DICT
+     71 HD22       -7.7318   18.2683   69.0775 H         5 LEU5        0.0600 DICT
+     72 HD23       -7.7856   19.7911   68.2023 H         5 LEU5        0.0600 DICT
+     73 HN        -11.6205   14.3215   67.4387 H         6 HSV6        0.3100 
+     74 HA        -10.6473   14.4787   64.6198 H         6 HSV6        0.1400 
+     75 HB1        -9.2392   13.1186   66.1815 H         6 HSV6        0.1100 
+     76 HB2       -10.6210   12.1414   66.5939 H         6 HSV6        0.1100 
+     77 HD2       -11.7388   10.7727   63.9277 H         6 HSV6        0.2400 
+     78 HE1        -7.7571   10.3558   62.6578 H         6 HSV6        0.2600 
+     79 HNE2      -10.1617    9.6077   62.3054 H         6 HSV6        0.3300 
+     80 HXT       -13.2996   13.7811   65.5616 H         6 HSV6        0.0700 
+     81 H81        -7.7303   12.0445   64.5509 H         6 HSV6        0.3200 
+@<TRIPOS>BOND
+     1    1    2 2    
+     2    1    3 1    
+     3    1    4 am   BACKBONE|DICT|INTERRES
+     4    3   40 1    
+     5    3   41 1    
+     6    3   42 1    
+     7    4    5 1    BACKBONE|DICT
+     8    4   43 1    DICT
+     9    5    6 1    BACKBONE|DICT
+    10    5    8 1    DICT
+    11    5   44 1    DICT
+    12    6    7 2    BACKBONE|DICT
+    13    6   10 am   BACKBONE|DICT|INTERRES
+    14    8    9 1    DICT
+    15    8   45 1    DICT
+    16    8   46 1    DICT
+    17    9   47 1    DICT
+    18   10   11 1    BACKBONE|DICT
+    19   10   48 1    DICT
+    20   11   12 1    BACKBONE|DICT
+    21   11   14 1    DICT
+    22   11   49 1    DICT
+    23   12   13 2    BACKBONE|DICT
+    24   12   15 am   BACKBONE|DICT|INTERRES
+    25   14   50 1    DICT
+    26   14   51 1    DICT
+    27   14   52 1    DICT
+    28   15   16 1    BACKBONE|DICT
+    29   15   53 1    DICT
+    30   16   17 1    BACKBONE|DICT
+    31   16   19 1    DICT
+    32   16   54 1    DICT
+    33   17   18 2    BACKBONE|DICT
+    34   17   22 am   BACKBONE|DICT|INTERRES
+    35   19   20 1    DICT
+    36   19   21 1    DICT
+    37   19   55 1    DICT
+    38   20   56 1    DICT
+    39   20   57 1    DICT
+    40   20   58 1    DICT
+    41   21   59 1    DICT
+    42   21   60 1    DICT
+    43   21   61 1    DICT
+    44   22   23 1    BACKBONE|DICT
+    45   22   62 1    DICT
+    46   23   24 1    BACKBONE|DICT
+    47   23   26 1    DICT
+    48   23   63 1    DICT
+    49   24   25 2    BACKBONE|DICT
+    50   24   30 am   BACKBONE|DICT|INTERRES
+    51   26   27 1    DICT
+    52   26   64 1    DICT
+    53   26   65 1    DICT
+    54   27   28 1    DICT
+    55   27   29 1    DICT
+    56   27   66 1    DICT
+    57   28   67 1    DICT
+    58   28   68 1    DICT
+    59   28   69 1    DICT
+    60   29   70 1    DICT
+    61   29   71 1    DICT
+    62   29   72 1    DICT
+    63   30   31 1    
+    64   30   73 1    
+    65   31   32 1    
+    66   31   38 1    
+    67   31   74 1    
+    68   32   33 1    
+    69   32   75 1    
+    70   32   76 1    
+    71   33   34 1    
+    72   33   35 2    
+    73   34   36 2    
+    74   34   81 1    
+    75   35   37 1    
+    76   35   77 1    
+    77   36   37 1    
+    78   36   78 1    
+    79   37   79 1    
+    80   38   39 2    
+    81   38   80 1    
+@<TRIPOS>SUBSTRUCTURE
+     1 ACE         1 GROUP             0 B     ****    0 ROOT    
+     2 SER2        5 RESIDUE           1 B     SER     2         
+     3 ALA3       11 RESIDUE           1 B     ALA     2         
+     4 VAL4       16 RESIDUE           1 B     VAL     2         
+     5 LEU5       23 RESIDUE           1 B     LEU     2         
+     6 HSV6       30 GROUP             0 B     ****    0 ROOT    
+     7 ACE1       40 GROUP             0 B     ****    0 ROOT    
